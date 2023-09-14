@@ -21,7 +21,7 @@ I am a  Web Developer who is exploring Open Source World 🌎:
 
 
 <br>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-monishsolanki&" alt="dev-monishsolanki" /></p>
 
 ![Monish's github stats](https://github-readme-stats.vercel.app/api?username=dev-monishsolanki&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
@@ -29,5 +29,5 @@ I am a  Web Developer who is exploring Open Source World 🌎:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-monishsolanki&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-monishsolanki&" alt="dev-monishsolanki" /></p>
+
 <br>
